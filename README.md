@@ -4,4 +4,4 @@ This was the final project for my Machine Learning in Chemical Sciences and Engi
 
 One of my areas of interest is Biomedical Informatics so I chose to use the breast_cancer dataset from the sklearn.datasets module and developed three different machine learning models to predict whether a cancer cell was benign or malignant.
 
-I compared three different models using Logitic Regression, K-Nearest Neighbors, and Naive Bayes under different sets of features..
+I compared three different models using Logistic Regression, K-Nearest Neighbors, and Naive Bayes under different sets of features.
